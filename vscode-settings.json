@@ -4,32 +4,32 @@
       "fileMatch": [
         "skin_pack/skins.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/skinpacks/skins.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/skinpacks/skins.json"
     },
     {
       "fileMatch": [
         "language_names.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/language/language_names.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/language/language_names.json"
     },
     {
       "fileMatch": [
         "languages.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/language/languages.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/language/languages.json"
     },
     {
       "fileMatch": [
         "manifest.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/general/manifest.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/general/manifest.json"
     },
     {
       "fileMatch": [
         "world_behavior_packs.{json,jsonc,json5}",
         "world_resource_packs.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/general/world_x_packs.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/general/world_x_packs.json"
     },
     {
       "fileMatch": [
@@ -45,7 +45,7 @@
         "*rp*/animation_controllers/**/*.{json,jsonc,json5}",
         "*.{animation_controller.rp,rpac,ac.rp,rp_ac}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/animation_controllers/animation_controller.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/animation_controllers/animation_controller.json"
     },
     {
       "fileMatch": [
@@ -61,7 +61,7 @@
         "*rp*/animations/**/*.{json,jsonc,json5}",
         "*.{animation.rp,anim.rp,a.rp,rpa}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/animations/actor_animation.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/animations/actor_animation.json"
     },
     {
       "fileMatch": [
@@ -69,19 +69,19 @@
         "attachables/**/*.{json,jsonc,json5}",
         "*.{attachable,attach,at}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/attachables/attachables.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/attachables/attachables.json"
     },
     {
       "fileMatch": [
         "biomes_client.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/biomes_client.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/biomes_client.json"
     },
     {
       "fileMatch": [
         "blocks.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/blocks.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/blocks.json"
     },
     {
       "fileMatch": [
@@ -91,7 +91,7 @@
         "!models/entity/**/*.{json,jsonc,json5}",
         "!models/entity/*.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/entity/entity.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/entity/entity.json"
     },
     {
       "fileMatch": [
@@ -99,25 +99,25 @@
         "fogs/**/*.{json,jsonc,json5}",
         "*.fog.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/fog/fog.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/fog/fog.json"
     },
     {
       "fileMatch": [
         "flipbook_textures.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/textures/flipbook_textures.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/textures/flipbook_textures.json"
     },
     {
       "fileMatch": [
         "item_texture.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/textures/item_texture.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/textures/item_texture.json"
     },
     {
       "fileMatch": [
         "texture_list.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/textures/texture_list.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/textures/texture_list.json"
     },
     {
       "fileMatch": [
@@ -133,7 +133,7 @@
         "*rp*/items/**/*.{json,jsonc,json5}",
         "*.{item.rp,i.rp,rpi,rp_item}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/items/items.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/items/items.json"
     },
     {
       "fileMatch": [
@@ -141,19 +141,19 @@
         "models/entity/**/*.{json,jsonc,json5}",
         "*.{geo,geometry,model,g}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/models/entity/model_entity.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/models/entity/model_entity.json"
     },
     {
       "fileMatch": [
         "materials/*.material"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/materials/materials.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/materials/materials.json"
     },
     {
       "fileMatch": [
         "music_definitions.json"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/sounds/music_definitions.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/sounds/music_definitions.json"
     },
     {
       "fileMatch": [
@@ -161,7 +161,7 @@
         "particles/**/*.{json,jsonc,json5}",
         "*.{particle,p}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/particles/particles.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/particles/particles.json"
     },
     {
       "fileMatch": [
@@ -169,25 +169,25 @@
         "render_controllers/**/*.{json,jsonc,json5}",
         "*.{render,render_controller,rc}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/render_controllers/render_controllers.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/render_controllers/render_controllers.json"
     },
     {
       "fileMatch": [
         "sound_definitions.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/sounds/sound_definitions.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/sounds/sound_definitions.json"
     },
     {
       "fileMatch": [
         "sounds.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/sounds.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/sounds.json"
     },
     {
       "fileMatch": [
         "terrain_texture.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/resource/textures/terrain_texture.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/resource/textures/terrain_texture.json"
     },
     {
       "fileMatch": [
@@ -203,7 +203,7 @@
         "*bp*/animation_controllers/**/*.{json,jsonc,json5}",
         "*.{animation_controller.bp,bpac,ac.bp,bp_ac}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/animation_controllers/animation_controller.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/animation_controllers/animation_controller.json"
     },
     {
       "fileMatch": [
@@ -219,7 +219,7 @@
         "*bp*/animations/**/*.{json,jsonc,json5}",
         "*.{animation.bp,anim.bp,a.bp,bpa,bp_anim}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/animations/animations.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/animations/animations.json"
     },
     {
       "fileMatch": [
@@ -235,7 +235,7 @@
         "*bp*/biomes/**/*.{json,jsonc,json5}",
         "*.biome.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/biomes/biomes.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/biomes/biomes.json"
     },
     {
       "fileMatch": [
@@ -251,13 +251,13 @@
         "*bp*/dialogue/**/*.{json,jsonc,json5}",
         "*.{diag,dialogue,dialog,d}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/dialogue/dialogue.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/dialogue/dialogue.json"
     },
     {
       "fileMatch": [
         "functions/tick.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/functions/tick.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/functions/tick.json"
     },
     {
       "fileMatch": [
@@ -273,7 +273,7 @@
         "*bp*/loot_tables/**/*.{json,jsonc,json5}",
         "*.{loot,loot_table,lt}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/loot_tables/loot_tables.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/loot_tables/loot_tables.json"
     },
     {
       "fileMatch": [
@@ -289,7 +289,7 @@
         "*bp*/blocks/**/*.{json,jsonc,json5}",
         "*.{block,b}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/blocks/blocks.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/blocks/blocks.json"
     },
     {
       "fileMatch": [
@@ -306,7 +306,7 @@
         "*.{entity.bp,e.bp,se,e.bp,bpe,behavior}.{json,jsonc,json5}",
         "!*loot_tables*"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/entities/entities.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/entities/entities.json"
     },
     {
       "fileMatch": [
@@ -322,7 +322,7 @@
         "*bp*/features/**/*.{json,jsonc,json5}",
         "*.{feature,f}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/features/features.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/features/features.json"
     },
     {
       "fileMatch": [
@@ -338,7 +338,7 @@
         "*bp*/feature_rules/**/*.{json,jsonc,json5}",
         "*.{feature_rule,fr}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/feature_rules/feature_rules.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/feature_rules/feature_rules.json"
     },
     {
       "fileMatch": [
@@ -354,7 +354,7 @@
         "*bp*/items/**/*.{json,jsonc,json5}",
         "*.{item.bp,i.bp,bpi,bp_item}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/items/items.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/items/items.json"
     },
     {
       "fileMatch": [
@@ -362,7 +362,7 @@
         "recipes/**/*.{json,jsonc,json5}",
         "*.{recipe,crafting_recipe,cr,r}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/recipes/recipes.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/recipes/recipes.json"
     },
     {
       "fileMatch": [
@@ -370,7 +370,7 @@
         "spawn_rules/**/*.{json,jsonc,json5}",
         "*.{spawn,sr,spawn_rule}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/spawn_rules/spawn_rules.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/spawn_rules/spawn_rules.json"
     },
     {
       "fileMatch": [
@@ -386,7 +386,7 @@
         "*bp*/trading/**/*.{json,jsonc,json5}",
         "*.{trade,trade_table.tt}.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/trading/trading.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/trading/trading.json"
     },
     {
       "fileMatch": [
@@ -402,7 +402,7 @@
         "*bp*/volumes/**/*.{json,jsonc,json5}",
         "*.volume.{json,jsonc,json5}"
       ],
-      "url": "https://raw.githubusercontent.com/Blockception/Minecraft-bedrock-json-schemas/main/behavior/volumes/volumes.json"
+      "url": "https://raw.githubusercontent.com/MacaylaMarvelous81/Minecraft-bedrock-json-schemas/main/behavior/volumes/volumes.json"
     }
   ]
 }

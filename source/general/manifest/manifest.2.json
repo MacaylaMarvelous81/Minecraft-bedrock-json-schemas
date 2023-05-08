@@ -6,13 +6,7 @@
   "required": ["format_version", "header"],
   "additionalProperties": false,
   "definitions": {
-    "uuidv4": {
-      "type": "string",
-      "title": "An UUID V4",
-      "description": "A valid UUID v4.",
-      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
-      "format": "uuid"
-    },
+    "uuidv4": { "$ref": "../UUIDV4.json" },
     "version": { "$ref": "../Version.json" }
   },
   "properties": {
